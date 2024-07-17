@@ -19,4 +19,4 @@
 ---
 include:
   - board: nrf52840_m2
-    shield: eri_6x4
+    shield: eri_2x2
