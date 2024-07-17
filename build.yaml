@@ -19,4 +19,4 @@
 ---
 include:
   - board: nrf52840_m2
-    shield: two_percent_milk
+    shield: eri_6x4
