@@ -1,0 +1,5 @@
+if SHIELD_ERI_6x4
+config ZMK_KEYBOARD_NAME
+      default "eri_6x4"
+
+endif
