@@ -1,0 +1,5 @@
+if SHIELD_ERI_2x2
+config ZMK_KEYBOARD_NAME
+      default "eri_2x2"
+
+endif
